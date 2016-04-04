@@ -9,4 +9,4 @@ Merge without fast forward.
 
 Test 'stash' command.
 
-Git is no strong.
+Git is very strong.
